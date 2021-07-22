@@ -27,7 +27,7 @@ import EmailComposer
 
 ## Documentation
 
-[This short guide](...) demonstrates how to use EmailComposer library.
+[This short guide](https://github.com/gabrieltheodoropoulos/EmailComposer-Xcode12/wiki) demonstrates how to use EmailComposer library.
 
 **Note:** There is a DocC archive (.doccarchive) available to download and open it with the Developer Documentation. However, this cannot be done in Xcode 12, as DocC archives require Xcode 13 and above. To find out more, look at the [original EmailComposer Swift package repository](https://github.com/gabrieltheodoropoulos/EmailComposer.git) made for Xcode 13+. 
 
