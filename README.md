@@ -31,6 +31,10 @@ import EmailComposer
 
 **Note:** There is a DocC archive (.doccarchive) available to download and open it with the Developer Documentation. However, this cannot be done in Xcode 12, as DocC archives require Xcode 13 and above. To find out more, look at the [original EmailComposer Swift package repository](https://github.com/gabrieltheodoropoulos/EmailComposer.git) made for Xcode 13+. 
 
+## Reading Material
+
+There is a text tutorial to read about how to implement email composer in SwiftUI on [SerialCoder.dev](https://serialcoder.dev/text-tutorials/swiftui/composing-emails-in-swiftui-using-a-view-modifier/), and on [Medium](https://gabth.medium.com/composing-emails-in-swiftui-using-a-view-modifier-a764a981080a).
+
 ## Author
 
 Gabriel Theodoropoulos, Copyright © 2021 - Explore more content and material at [SerialCoder.dev](https://serialcoder.dev).
